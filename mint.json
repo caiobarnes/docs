@@ -58,14 +58,9 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Regras",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "essentials/code"
       ]
     }
   ],
