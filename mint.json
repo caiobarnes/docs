@@ -35,17 +35,17 @@
     {
       "name": "Introdução",
       "icon": "book-open-cover",
-      "url": "https://google.com/"
+      "url": "regras"
     },
     {
       "name": "Regras",
       "icon": "shield",
-      "url": "https://google.com/"
+      "url": "regras"
     },
     {
       "name": "Tutoriais",
       "icon": "scroll",
-      "url": "https://google.com/"
+      "url": "regras"
     }
   ],
   "navigation": [
