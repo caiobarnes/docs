@@ -35,39 +35,35 @@
     {
       "name": "Introdução",
       "icon": "book-open-cover",
-      "url": "https://spotgames.mintlify.app/comece-aqui"
+      "url": "introducao"
     },
     {
       "name": "Regras",
       "icon": "shield",
-      "url": "https://spotgames.mintlify.app/comece-aqui"
+      "url": "regras"
     },
     {
       "name": "Tutoriais",
       "icon": "scroll",
-      "url": "https://spotgames.mintlify.app/comece-aqui"
+      "url": "tutoriais"
     }
   ],
   "navigation": [
     {
       "group": "Introdução",
-      "pages": [
-        "comece-aqui"
-      ]
+      "pages": ["introducao/comece-aqui"]
     },
     {
       "group": "Regras do Servidor",
       "pages": [
-        "mute",
-        "silenciamento",
-        "banimentos"
+        "regras/mute",
+        "regras/silenciamento",
+        "regras/banimentos"
       ]
     },
     {
       "group": "Tutoriais",
-      "pages": [
-        "principal"
-      ]
+      "pages": ["tutoriais/principal"]
     }
   ],
   "footerSocials": {
